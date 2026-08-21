@@ -63,4 +63,3 @@ Toute la détection DR est isolée dans `SupportedPocketMap.cs`. Elle vérifie a
 - la présence d’un pawn de la faction joueur sur la map.
 
 Si DR renomme un de ces éléments, seules les constantes de ce helper sont à mettre à jour.
-
