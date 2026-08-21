@@ -3,3 +3,4 @@ Source/**/obj/
 *.user
 *.suo
 *.log
+*.pdb
