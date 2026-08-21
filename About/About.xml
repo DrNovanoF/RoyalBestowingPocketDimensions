@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Royal Bestowing in Pocket Dimensions</name>
+  <author>Local compatibility patch</author>
+  <packageId>local.royalbestowing.pocketdimensions</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>Targeted RimWorld 1.6 compatibility for Royalty bestowing ceremonies inside Dimensions RePocketed pocket dimensions.</description>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>Ludeon.RimWorld.Royalty</packageId>
+      <displayName>Royalty</displayName>
+    </li>
+    <li>
+      <packageId>KB.PocketDimension</packageId>
+      <displayName>Dimensions RePocketed</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/3554632020</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+    <li>Ludeon.RimWorld.Royalty</li>
+    <li>KB.PocketDimension</li>
+    <li>Salvador143.ShuttleDock</li>
+  </loadAfter>
+</ModMetaData>
